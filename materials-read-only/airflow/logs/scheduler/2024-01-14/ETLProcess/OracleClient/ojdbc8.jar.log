@@ -1,0 +1,35 @@
+[2024-01-14T09:35:23.097+0200] {processor.py:161} INFO - Started process (PID=48437) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-14T09:35:23.105+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar for tasks to queue
+[2024-01-14T09:35:23.106+0200] {logging_mixin.py:188} INFO - [2024-01-14T09:35:23.106+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-14T09:35:23.269+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-14T09:35:23.635+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar took 0.538 seconds
+[2024-01-14T17:48:19.582+0200] {processor.py:161} INFO - Started process (PID=49152) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-14T17:48:19.589+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar for tasks to queue
+[2024-01-14T17:48:19.589+0200] {logging_mixin.py:188} INFO - [2024-01-14T17:48:19.589+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-14T17:48:19.661+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-14T17:48:19.740+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar took 0.160 seconds
+[2024-01-15T00:19:21.162+0200] {processor.py:161} INFO - Started process (PID=49658) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-15T00:19:21.168+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar for tasks to queue
+[2024-01-15T00:19:21.169+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:19:21.169+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-15T00:19:21.239+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-15T00:19:21.330+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar took 0.170 seconds
+[2024-01-15T00:22:00.582+0200] {processor.py:161} INFO - Started process (PID=50224) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-15T00:22:00.587+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar for tasks to queue
+[2024-01-15T00:22:00.587+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:22:00.587+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-15T00:22:00.658+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-15T00:22:00.749+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar took 0.169 seconds
+[2024-01-15T00:24:34.060+0200] {processor.py:161} INFO - Started process (PID=50338) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-15T00:24:34.064+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar for tasks to queue
+[2024-01-15T00:24:34.065+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:24:34.064+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-15T00:24:34.141+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-15T00:24:34.221+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar took 0.163 seconds
+[2024-01-15T00:26:55.055+0200] {processor.py:161} INFO - Started process (PID=50421) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-15T00:26:55.061+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar for tasks to queue
+[2024-01-15T00:26:55.062+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:26:55.061+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-15T00:26:55.137+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-15T00:26:55.219+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar took 0.165 seconds
+[2024-01-15T00:29:32.090+0200] {processor.py:161} INFO - Started process (PID=50611) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-15T00:29:32.094+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar for tasks to queue
+[2024-01-15T00:29:32.095+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:29:32.095+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-15T00:29:32.179+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar
+[2024-01-15T00:29:32.281+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ojdbc8.jar took 0.193 seconds

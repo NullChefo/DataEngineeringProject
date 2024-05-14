@@ -1,0 +1,7 @@
+[2024-01-15T09:25:41.854+0200] {processor.py:161} INFO - Started process (PID=52002) to work on /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-01-15T09:25:41.858+0200] {processor.py:830} INFO - Processing file /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-01-15T09:25:41.859+0200] {logging_mixin.py:188} INFO - [2024-01-15T09:25:41.859+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-01-15T09:25:41.958+0200] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-01-15T09:25:42.051+0200] {logging_mixin.py:188} INFO - [2024-01-15T09:25:42.050+0200] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-15T09:25:42.067+0200] {logging_mixin.py:188} INFO - [2024-01-15T09:25:42.067+0200] {dag.py:3820} INFO - Setting next_dagrun for example_sla_dag to 2024-01-15T07:22:00+00:00, run_after=2024-01-15T07:24:00+00:00
+[2024-01-15T09:25:42.084+0200] {processor.py:183} INFO - Processing /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.231 seconds

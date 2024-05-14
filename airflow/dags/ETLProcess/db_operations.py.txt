@@ -1,0 +1,73 @@
+import os
+import pandas as pd
+from sqlalchemy.engine import URL
+from sqlalchemy import create_engine
+
+def load_data_to_database(table_name: str, connection_type: str, csv_folder_path: str):
+    connection_string = determine_connection_type(connection_type)
+    engine = create_engine(connection_string)
+
+    csv_files = [file_name for file_name in os.listdir(csv_folder_path) if file_name.endswith(".csv")]
+
+    for file_name in csv_files:
+        csv_path = os.path.join(csv_folder_path, file_name)
+        print(str(csv_path))
+        df = pd.read_csv(csv_path)
+        print(str(df))
+        df.to_sql(table_name, engine, index=False, if_exists='replace')
+
+        print(f'Table {table_name} created successfully from CSV.')
+
+    print("Data loaded to the database successfully.")
+
+
+def load_dataframe_to_database(table_name, connection_type, dataframe):
+    config: str = determine_connection_type(connection_type)
+    engine = create_engine(config)
+
+    connection = engine.connect()
+    dataframe.to_sql(table_name, con=connection, index=False, if_exists='replace')
+    connection.close()
+
+    print("Data loaded to the database successfully.")
+
+
+def determine_connection_type(connection_type: str):
+    connection_url = ""
+    if connection_type == "postgresql":
+        connection_url = URL.create("postgresql", username="postgres", password="example_password",
+                                    host="127.0.0.1", port=5432, database="data_engineering_project")
+
+    elif connection_type == "mysql":
+        # Transforming it to the desired format
+        connection_url = URL.create("mysql", username="your_mysql_user", password="your_mysql_password",
+                                    host="127.0.0.1", port=3306, database="data_engineering_project")
+
+
+    elif connection_type == "mssql":
+        # Add your MSSQL configuration when needed
+        pass
+    elif connection_type == "oracle":
+        connection_url = URL.create("oracle", username="your_username", password="your_password",
+                                   host="127.0.0.1", port=1521, database="your_oracle_service_name")
+
+    else:
+        print("Unsupported database type")
+        raise ValueError("Empty database configuration")
+
+    if not connection_url:
+        raise ValueError("Empty database configuration")
+
+    return connection_url
+
+
+def get_data_from_table(table_name: str, connection_type: str):
+    config = determine_connection_type(connection_type)
+    engine = create_engine(config)
+
+    connection = engine.connect()
+    select_query = f"SELECT * FROM {table_name}"
+    df = pd.read_sql(select_query, con=connection)
+    connection.close()
+
+    return df

@@ -1,0 +1,49 @@
+[2024-01-14T08:50:35.411+0200] {processor.py:161} INFO - Started process (PID=48136) to work on /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-14T08:50:35.425+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/users_dag.py for tasks to queue
+[2024-01-14T08:50:35.426+0200] {logging_mixin.py:188} INFO - [2024-01-14T08:50:35.426+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-14T08:50:37.422+0200] {processor.py:840} INFO - DAG(s) 'DAG-USER-DATA-TRANSFER' retrieved from /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-14T08:50:37.960+0200] {logging_mixin.py:188} INFO - [2024-01-14T08:50:37.959+0200] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-14T08:50:38.071+0200] {logging_mixin.py:188} INFO - [2024-01-14T08:50:38.070+0200] {dag.py:3820} INFO - Setting next_dagrun for DAG-USER-DATA-TRANSFER to None, run_after=None
+[2024-01-14T08:50:38.158+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/users_dag.py took 2.745 seconds
+[2024-01-14T16:58:45.223+0200] {processor.py:161} INFO - Started process (PID=49125) to work on /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-14T16:58:45.230+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/users_dag.py for tasks to queue
+[2024-01-14T16:58:45.230+0200] {logging_mixin.py:188} INFO - [2024-01-14T16:58:45.230+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-14T16:58:46.152+0200] {processor.py:840} INFO - DAG(s) 'DAG-USER-DATA-TRANSFER' retrieved from /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-14T16:58:46.244+0200] {logging_mixin.py:188} INFO - [2024-01-14T16:58:46.244+0200] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-14T16:58:46.263+0200] {logging_mixin.py:188} INFO - [2024-01-14T16:58:46.263+0200] {dag.py:3820} INFO - Setting next_dagrun for DAG-USER-DATA-TRANSFER to None, run_after=None
+[2024-01-14T16:58:46.282+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/users_dag.py took 1.061 seconds
+[2024-01-15T00:19:06.793+0200] {processor.py:161} INFO - Started process (PID=49626) to work on /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-15T00:19:06.799+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/users_dag.py for tasks to queue
+[2024-01-15T00:19:06.800+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:19:06.800+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-15T00:19:07.904+0200] {processor.py:840} INFO - DAG(s) 'DAG-USER-DATA-TRANSFER' retrieved from /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-15T00:19:08.014+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:19:08.013+0200] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-15T00:19:08.054+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:19:08.054+0200] {dag.py:3820} INFO - Setting next_dagrun for DAG-USER-DATA-TRANSFER to None, run_after=None
+[2024-01-15T00:19:08.085+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/users_dag.py took 1.293 seconds
+[2024-01-15T00:21:48.636+0200] {processor.py:161} INFO - Started process (PID=50221) to work on /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-15T00:21:48.640+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/users_dag.py for tasks to queue
+[2024-01-15T00:21:48.641+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:21:48.641+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-15T00:21:49.619+0200] {processor.py:840} INFO - DAG(s) 'DAG-USER-DATA-TRANSFER' retrieved from /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-15T00:21:49.709+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:21:49.708+0200] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-15T00:21:49.725+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:21:49.724+0200] {dag.py:3820} INFO - Setting next_dagrun for DAG-USER-DATA-TRANSFER to None, run_after=None
+[2024-01-15T00:21:49.742+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/users_dag.py took 1.108 seconds
+[2024-01-15T00:24:23.786+0200] {processor.py:161} INFO - Started process (PID=50318) to work on /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-15T00:24:23.791+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/users_dag.py for tasks to queue
+[2024-01-15T00:24:23.791+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:24:23.791+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-15T00:24:24.760+0200] {processor.py:840} INFO - DAG(s) 'DAG-USER-DATA-TRANSFER' retrieved from /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-15T00:24:24.868+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:24:24.868+0200] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-15T00:24:24.885+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:24:24.885+0200] {dag.py:3820} INFO - Setting next_dagrun for DAG-USER-DATA-TRANSFER to None, run_after=None
+[2024-01-15T00:24:24.904+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/users_dag.py took 1.120 seconds
+[2024-01-15T00:26:45.234+0200] {processor.py:161} INFO - Started process (PID=50418) to work on /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-15T00:26:45.238+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/users_dag.py for tasks to queue
+[2024-01-15T00:26:45.239+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:26:45.239+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-15T00:26:46.236+0200] {processor.py:840} INFO - DAG(s) 'DAG-USER-DATA-TRANSFER' retrieved from /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-15T00:26:46.327+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:26:46.327+0200] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-15T00:26:46.341+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:26:46.341+0200] {dag.py:3820} INFO - Setting next_dagrun for DAG-USER-DATA-TRANSFER to None, run_after=None
+[2024-01-15T00:26:46.359+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/users_dag.py took 1.127 seconds
+[2024-01-15T00:29:20.896+0200] {processor.py:161} INFO - Started process (PID=50604) to work on /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-15T00:29:20.902+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/users_dag.py for tasks to queue
+[2024-01-15T00:29:20.903+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:29:20.903+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-15T00:29:22.098+0200] {processor.py:840} INFO - DAG(s) 'DAG-USER-DATA-TRANSFER' retrieved from /Users/angel.georgiev/airflow/dags/users_dag.py
+[2024-01-15T00:29:22.220+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:29:22.220+0200] {dag.py:3033} INFO - Sync 1 DAGs
+[2024-01-15T00:29:22.240+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:29:22.239+0200] {dag.py:3820} INFO - Setting next_dagrun for DAG-USER-DATA-TRANSFER to None, run_after=None
+[2024-01-15T00:29:22.264+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/users_dag.py took 1.370 seconds

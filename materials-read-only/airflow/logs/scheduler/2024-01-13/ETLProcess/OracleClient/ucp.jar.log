@@ -1,0 +1,100 @@
+[2024-01-13T15:16:02.119+0200] {processor.py:161} INFO - Started process (PID=42564) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:16:02.123+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-13T15:16:02.124+0200] {logging_mixin.py:188} INFO - [2024-01-13T15:16:02.124+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:16:02.131+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:16:02.263+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.145 seconds
+[2024-01-13T15:18:53.535+0200] {processor.py:161} INFO - Started process (PID=42781) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:18:53.539+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-13T15:18:53.540+0200] {logging_mixin.py:188} INFO - [2024-01-13T15:18:53.540+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:18:53.547+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:18:53.681+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.148 seconds
+[2024-01-13T15:21:16.371+0200] {processor.py:161} INFO - Started process (PID=42905) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:21:16.379+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-13T15:21:16.380+0200] {logging_mixin.py:188} INFO - [2024-01-13T15:21:16.379+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:21:16.391+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:21:16.533+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.164 seconds
+[2024-01-13T15:23:41.671+0200] {processor.py:161} INFO - Started process (PID=43015) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:23:41.676+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-13T15:23:41.676+0200] {logging_mixin.py:188} INFO - [2024-01-13T15:23:41.676+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:23:41.684+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:23:41.826+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.156 seconds
+[2024-01-13T15:26:11.316+0200] {processor.py:161} INFO - Started process (PID=43251) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:26:11.321+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-13T15:26:11.321+0200] {logging_mixin.py:188} INFO - [2024-01-13T15:26:11.321+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:26:11.330+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:26:11.475+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.161 seconds
+[2024-01-13T15:29:09.819+0200] {processor.py:161} INFO - Started process (PID=43408) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:29:09.824+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-13T15:29:09.824+0200] {logging_mixin.py:188} INFO - [2024-01-13T15:29:09.824+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:29:09.833+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:29:09.970+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.153 seconds
+[2024-01-13T15:31:44.052+0200] {processor.py:161} INFO - Started process (PID=43542) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:31:44.057+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-13T15:31:44.058+0200] {logging_mixin.py:188} INFO - [2024-01-13T15:31:44.058+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:31:44.065+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:31:44.198+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.148 seconds
+[2024-01-13T15:34:44.771+0200] {processor.py:161} INFO - Started process (PID=43796) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:34:44.776+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-13T15:34:44.777+0200] {logging_mixin.py:188} INFO - [2024-01-13T15:34:44.777+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:34:44.786+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:34:44.926+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.156 seconds
+[2024-01-13T15:37:01.715+0200] {processor.py:161} INFO - Started process (PID=43939) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:37:01.720+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-13T15:37:01.721+0200] {logging_mixin.py:188} INFO - [2024-01-13T15:37:01.721+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:37:01.730+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:37:01.876+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.164 seconds
+[2024-01-13T15:37:28.418+0200] {processor.py:161} INFO - Started process (PID=43974) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:37:28.424+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-13T15:37:28.424+0200] {logging_mixin.py:188} INFO - [2024-01-13T15:37:28.424+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:37:28.435+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:37:28.600+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.184 seconds
+[2024-01-13T15:38:07.421+0200] {processor.py:161} INFO - Started process (PID=44028) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:38:07.426+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-13T15:38:07.427+0200] {logging_mixin.py:188} INFO - [2024-01-13T15:38:07.427+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:38:07.436+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T15:38:07.584+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.165 seconds
+[2024-01-13T17:09:14.478+0200] {processor.py:161} INFO - Started process (PID=44390) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T17:09:14.482+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-13T17:09:14.482+0200] {logging_mixin.py:188} INFO - [2024-01-13T17:09:14.482+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T17:09:14.490+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T17:09:14.602+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.126 seconds
+[2024-01-13T23:48:33.868+0200] {processor.py:161} INFO - Started process (PID=45466) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T23:48:33.875+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-13T23:48:33.875+0200] {logging_mixin.py:188} INFO - [2024-01-13T23:48:33.875+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T23:48:33.885+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-13T23:48:34.076+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.210 seconds
+[2024-01-14T00:35:04.125+0200] {processor.py:161} INFO - Started process (PID=45821) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:35:04.131+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-14T00:35:04.131+0200] {logging_mixin.py:188} INFO - [2024-01-14T00:35:04.131+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:35:04.140+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:35:04.341+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.218 seconds
+[2024-01-14T00:37:46.992+0200] {processor.py:161} INFO - Started process (PID=46417) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:37:46.996+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-14T00:37:46.997+0200] {logging_mixin.py:188} INFO - [2024-01-14T00:37:46.997+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:37:47.005+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:37:47.156+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.166 seconds
+[2024-01-14T00:40:06.223+0200] {processor.py:161} INFO - Started process (PID=46515) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:40:06.228+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-14T00:40:06.229+0200] {logging_mixin.py:188} INFO - [2024-01-14T00:40:06.229+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:40:06.239+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:40:06.436+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.214 seconds
+[2024-01-14T00:42:43.047+0200] {processor.py:161} INFO - Started process (PID=46704) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:42:43.052+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-14T00:42:43.052+0200] {logging_mixin.py:188} INFO - [2024-01-14T00:42:43.052+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:42:43.060+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:42:43.188+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.142 seconds
+[2024-01-14T00:45:22.891+0200] {processor.py:161} INFO - Started process (PID=46933) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:45:22.895+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-14T00:45:22.896+0200] {logging_mixin.py:188} INFO - [2024-01-14T00:45:22.895+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:45:22.905+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:45:23.041+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.152 seconds
+[2024-01-14T00:48:08.606+0200] {processor.py:161} INFO - Started process (PID=47061) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:48:08.610+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-14T00:48:08.611+0200] {logging_mixin.py:188} INFO - [2024-01-14T00:48:08.611+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:48:08.619+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:48:08.753+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.149 seconds
+[2024-01-14T00:50:40.296+0200] {processor.py:161} INFO - Started process (PID=47206) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:50:40.300+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar for tasks to queue
+[2024-01-14T00:50:40.301+0200] {logging_mixin.py:188} INFO - [2024-01-14T00:50:40.301+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:50:40.310+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar
+[2024-01-14T00:50:40.444+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/ucp.jar took 0.150 seconds

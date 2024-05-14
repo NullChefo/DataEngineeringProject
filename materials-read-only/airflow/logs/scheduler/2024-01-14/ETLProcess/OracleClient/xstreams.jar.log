@@ -1,0 +1,35 @@
+[2024-01-14T08:50:46.726+0200] {processor.py:161} INFO - Started process (PID=48204) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-14T08:50:46.749+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar for tasks to queue
+[2024-01-14T08:50:46.751+0200] {logging_mixin.py:188} INFO - [2024-01-14T08:50:46.751+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-14T08:50:46.756+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-14T08:50:47.116+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar took 0.394 seconds
+[2024-01-14T16:58:51.796+0200] {processor.py:161} INFO - Started process (PID=49135) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-14T16:58:51.811+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar for tasks to queue
+[2024-01-14T16:58:51.812+0200] {logging_mixin.py:188} INFO - [2024-01-14T16:58:51.811+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-14T16:58:51.815+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-14T16:58:52.129+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar took 0.338 seconds
+[2024-01-15T00:19:12.216+0200] {processor.py:161} INFO - Started process (PID=49627) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-15T00:19:12.222+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar for tasks to queue
+[2024-01-15T00:19:12.222+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:19:12.222+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-15T00:19:12.223+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-15T00:19:12.370+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar took 0.155 seconds
+[2024-01-15T00:21:52.770+0200] {processor.py:161} INFO - Started process (PID=50222) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-15T00:21:52.775+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar for tasks to queue
+[2024-01-15T00:21:52.775+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:21:52.775+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-15T00:21:52.776+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-15T00:21:52.924+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar took 0.156 seconds
+[2024-01-15T00:24:27.674+0200] {processor.py:161} INFO - Started process (PID=50334) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-15T00:24:27.679+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar for tasks to queue
+[2024-01-15T00:24:27.679+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:24:27.679+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-15T00:24:27.680+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-15T00:24:27.809+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar took 0.137 seconds
+[2024-01-15T00:26:49.380+0200] {processor.py:161} INFO - Started process (PID=50419) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-15T00:26:49.385+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar for tasks to queue
+[2024-01-15T00:26:49.386+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:26:49.386+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-15T00:26:49.387+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-15T00:26:49.525+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar took 0.146 seconds
+[2024-01-15T00:29:25.401+0200] {processor.py:161} INFO - Started process (PID=50606) to work on /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-15T00:29:25.406+0200] {processor.py:830} INFO - Processing file /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar for tasks to queue
+[2024-01-15T00:29:25.407+0200] {logging_mixin.py:188} INFO - [2024-01-15T00:29:25.407+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-15T00:29:25.408+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar
+[2024-01-15T00:29:25.547+0200] {processor.py:183} INFO - Processing /Users/angel.georgiev/airflow/dags/ETLProcess/OracleClient/xstreams.jar took 0.148 seconds

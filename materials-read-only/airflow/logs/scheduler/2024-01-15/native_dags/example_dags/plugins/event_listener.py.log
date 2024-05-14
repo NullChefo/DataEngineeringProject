@@ -1,0 +1,5 @@
+[2024-01-15T07:59:36.012+0200] {processor.py:161} INFO - Started process (PID=51419) to work on /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-01-15T07:59:36.023+0200] {processor.py:830} INFO - Processing file /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-01-15T07:59:36.024+0200] {logging_mixin.py:188} INFO - [2024-01-15T07:59:36.024+0200] {dagbag.py:538} INFO - Filling up the DagBag from /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-01-15T07:59:36.027+0200] {processor.py:842} WARNING - No viable dags retrieved from /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-01-15T07:59:36.314+0200] {processor.py:183} INFO - Processing /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.307 seconds

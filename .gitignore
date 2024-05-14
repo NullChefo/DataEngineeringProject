@@ -1,0 +1,7 @@
+airflow/logs/
+db
+airflow/dags/__pycache__
+
+.idea
+
+airflow/.idea

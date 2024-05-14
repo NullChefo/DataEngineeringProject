@@ -1,0 +1,17 @@
+[2024-01-13T15:39:44.555+0200] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: DAG-USER-DATA-TRANSFER.ETL_USER_DATA manual__2024-01-13T13:39:35.952875+00:00 [queued]>
+[2024-01-13T15:39:44.561+0200] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: DAG-USER-DATA-TRANSFER.ETL_USER_DATA manual__2024-01-13T13:39:35.952875+00:00 [queued]>
+[2024-01-13T15:39:44.561+0200] {taskinstance.py:2171} INFO - Starting attempt 1 of 1
+[2024-01-13T15:39:44.570+0200] {taskinstance.py:2192} INFO - Executing <Task(_PythonDecoratedOperator): ETL_USER_DATA> on 2024-01-13 13:39:35.952875+00:00
+[2024-01-13T15:39:44.576+0200] {standard_task_runner.py:60} INFO - Started process 44111 to run task
+[2024-01-13T15:39:44.582+0200] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'DAG-USER-DATA-TRANSFER', 'ETL_USER_DATA', 'manual__2024-01-13T13:39:35.952875+00:00', '--job-id', '37', '--raw', '--subdir', 'DAGS_FOLDER/users_dag.py', '--cfg-path', '/var/folders/4w/cqlcl4gn3lz6wkw0qjydjq9c0000gq/T/tmp_3_2fepl']
+[2024-01-13T15:39:44.586+0200] {standard_task_runner.py:88} INFO - Job 37: Subtask ETL_USER_DATA
+[2024-01-13T15:39:44.635+0200] {task_command.py:423} INFO - Running <TaskInstance: DAG-USER-DATA-TRANSFER.ETL_USER_DATA manual__2024-01-13T13:39:35.952875+00:00 [running]> on host TLV-02DN0GXP3YW
+[2024-01-13T15:39:44.690+0200] {taskinstance.py:2481} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='DAG-USER-DATA-TRANSFER' AIRFLOW_CTX_TASK_ID='ETL_USER_DATA' AIRFLOW_CTX_EXECUTION_DATE='2024-01-13T13:39:35.952875+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-01-13T13:39:35.952875+00:00'
+[2024-01-13T15:39:48.181+0200] {logging_mixin.py:188} INFO - INSERT INTO DIM_USER VALUES (1, 'John Doe', '123-456-7890')
+[2024-01-13T15:39:48.300+0200] {logging_mixin.py:188} INFO - INSERT INTO DIM_USER VALUES (2, 'Jane Smith', '987-654-3210')
+[2024-01-13T15:39:48.386+0200] {logging_mixin.py:188} INFO - INSERT INTO DIM_USER VALUES (3, 'Alice Johnson', 999)
+[2024-01-13T15:39:48.487+0200] {logging_mixin.py:188} INFO - INSERT INTO DIM_USER VALUES (4, 'Robert William Anderson', '555-1234')
+[2024-01-13T15:39:48.756+0200] {python.py:201} INFO - Done. Returned value was: Success
+[2024-01-13T15:39:48.775+0200] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=DAG-USER-DATA-TRANSFER, task_id=ETL_USER_DATA, execution_date=20240113T133935, start_date=20240113T133944, end_date=20240113T133948
+[2024-01-13T15:39:48.801+0200] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2024-01-13T15:39:48.816+0200] {taskinstance.py:3281} INFO - 0 downstream tasks scheduled from follow-on schedule check
